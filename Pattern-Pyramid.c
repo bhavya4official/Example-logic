@@ -1,5 +1,4 @@
-#include<iostream>
-#include<string>
+#include<stdio.h>
 int main(){
     int n,j,rows;
     
@@ -19,3 +18,10 @@ int main(){
     
     return 0;
 }
+
+Enter the number of rows: 5  
+    *                                                                                                                           
+   ***                                                                                                                          
+  *****                                                                                                                         
+ *******                                                                                                                        
+*********  
