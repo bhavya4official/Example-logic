@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    int n,r=1,i;        //1*n=n
+    int n,r=1;        //1*n=n
     printf("Enter a integer number: "); //Promt the user
     scanf("%d",&n);     //Store the value
     if(n<0){
